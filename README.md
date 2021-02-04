@@ -1,24 +1,25 @@
-# lista-de-tarefas
+# **Lista de Tarefas**
+<h1>
+    <img src="public/apresentacao.gif">
+</h1>
 
-## Project setup
-```
-yarn install
-```
+## :pencil: **Sobre**
+Este projeto foi desenvolvido com o objetivo de aplicar meus conhecimentos com o framework VueJS. <br>
+O projeto consiste em um painel com as tarefas listadas, cadastro de novas tarefas e dois botões: um para marcar a tarefa como concluída e outro para excluir a tarefa. Além disso o usuário pode ter acesso a uma lista com as tarefas concluídas e excluídas.
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+## :computer: **Tecnologias Utilizadas**
+- HTML5
+- CSS3
+- Bootstrap4
+- VueJS
 
-### Compiles and minifies for production
-```
-yarn build
-```
 
-### Lints and fixes files
+## :arrow_down: **Como Baixar**
 ```
-yarn lint
-```
+$ yarn install
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+$ yarn serve
+
+$ yarn build
+
+$ yarn lint
